@@ -294,4 +294,5 @@ TEST(TSet, check_negation_operator)
   expSet.InsElem(2);
 
   EXPECT_EQ(expSet, set1);
+  //(1, 1);
 }
